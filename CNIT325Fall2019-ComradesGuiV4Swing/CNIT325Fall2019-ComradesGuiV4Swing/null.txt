@@ -1,0 +1,6 @@
+[White "null"]
+[Black "null"]
+[Result "*"]
+
+* 
+

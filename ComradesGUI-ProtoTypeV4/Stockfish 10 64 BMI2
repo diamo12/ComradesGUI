@@ -1,0 +1,22 @@
+id Stockfish 10 64 BMI2
+Path C:\Users\asus\Documents\_Purdue_\Fall2019\CNIT325\Projects\ComradesGUI-ProtoTypeV4\stockfish-10-win\Windows\stockfish_10_x64_bmi2.exe
+RunTimeOptions NULL
+Debug Log File string NULL
+Contempt spin 24
+Analysis Contempt combo null
+Threads spin 16
+Hash spin 4096
+Clear Hash button false
+Ponder check false
+MultiPV spin 1
+Skill Level spin 20
+Move Overhead spin 30
+Minimum Thinking Time spin 20
+Slow Mover spin 84
+nodestime spin 0
+UCI_Chess960 check false
+UCI_AnalyseMode check false
+SyzygyPath string <empty>
+SyzygyProbeDepth spin 1
+Syzygy50MoveRule check true
+SyzygyProbeLimit spin 7
