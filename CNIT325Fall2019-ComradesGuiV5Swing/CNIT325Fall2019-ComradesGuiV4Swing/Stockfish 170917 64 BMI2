@@ -1,0 +1,18 @@
+id Stockfish 170917 64 BMI2
+Path stockfish_17091710_x64_bmi2.exe
+RunTimeOptions NULL
+Debug Log File string NULL
+Contempt spin 0
+Threads spin 1
+Hash spin 16
+Clear Hash button false
+Ponder check false
+MultiPV spin 1
+Skill Level spin 20
+Move Overhead spin 100
+nodestime spin 0
+UCI_Chess960 check false
+SyzygyPath string <empty>
+SyzygyProbeDepth spin 1
+Syzygy50MoveRule check true
+SyzygyProbeLimit spin 6

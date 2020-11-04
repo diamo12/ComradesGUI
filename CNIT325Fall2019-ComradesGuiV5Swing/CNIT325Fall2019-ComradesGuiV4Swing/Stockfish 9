@@ -1,0 +1,20 @@
+id Stockfish 9
+Path C:\Users\Pavithra Yendluru\git\CNIT325Fall2019\ComradesGUI-ProtoTypeV4\stockfish-9-win\Windows\stockfish_9_x32.exe
+RunTimeOptions NULL
+Debug Log File string NULL
+Contempt spin 20
+Threads spin 1
+Hash spin 16
+Clear Hash button false
+Ponder check false
+MultiPV spin 1
+Skill Level spin 20
+Move Overhead spin 30
+Minimum Thinking Time spin 20
+Slow Mover spin 89
+nodestime spin 0
+UCI_Chess960 check false
+SyzygyPath string <empty>
+SyzygyProbeDepth spin 1
+Syzygy50MoveRule check true
+SyzygyProbeLimit spin 6
