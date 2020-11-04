@@ -1,4 +1,4 @@
-# ComradesGUI
+# ComradesGUI (Swing and JavaFX)
 Team project for CNIT 325: Java Fundamentals
 
 A chess GUI that allows multiple types of play!
