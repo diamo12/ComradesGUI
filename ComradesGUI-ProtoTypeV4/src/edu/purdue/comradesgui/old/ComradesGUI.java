@@ -90,5 +90,6 @@ public class ComradesGUI extends JFrame {
 		RE.MakeComradesFrame();
 		// RE.LoadStartup (); // for the off
 		RE.RunLoop();
+		//soemthing
 	}
 }
