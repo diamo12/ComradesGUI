@@ -1003,9 +1003,9 @@ public class ComradesFrame implements MouseListener, ActionListener, FocusListen
 
 		// Create Play Mode ComboBox and add to box
 		PLAY_MODE = new JComboBox<String>();
-		PLAY_MODE.addItem("Human vs. Engine1");
-		PLAY_MODE.addItem("Engine1 vs. Engine1");
-		PLAY_MODE.addItem("Engine 1 vs. Engine2");
+		PLAY_MODE.addItem("Human vs. Engine 1");
+		PLAY_MODE.addItem("Engine 1 vs. Engine 1");
+		PLAY_MODE.addItem("Engine 1 vs. Engine 2");
 		PLAY_MODE.setFont(NEWBUY_FONT);
 		PLAY_MODE.setEditable(false);
 		PLAY_MODE.setPreferredSize(new Dimension(100, 20));
