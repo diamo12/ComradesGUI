@@ -1006,13 +1006,14 @@ public class ComradesFrame implements MouseListener, ActionListener, FocusListen
 		PLAY_MODE.addItem("Human vs. Engine 1");
 		PLAY_MODE.addItem("Engine 1 vs. Engine 1");
 		PLAY_MODE.addItem("Engine 1 vs. Engine 2");
+		PLAY_MODE.addItem("Infinite Analysis");
 		PLAY_MODE.setFont(NEWBUY_FONT);
 		PLAY_MODE.setEditable(false);
 		PLAY_MODE.setPreferredSize(new Dimension(100, 20));
 		PLAY_MODE.setMinimumSize(new Dimension(80, 20));
 		PLAY_BOX.add(PLAY_MODE);
 		PLAY_BOX.add(Box.createHorizontalStrut(10));
-
+ 
 		// Create Play button and add to box
 		PLAY_BUTTON = new JButton("PLAY");
 		PLAY_BUTTON.setMargin(new Insets(1, 3, 1, 3));
